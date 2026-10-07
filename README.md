@@ -105,7 +105,7 @@ python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8501
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/rc-column-reinforcement-calculator.git
+git clone https://github.com/Ghorbanpoor/rc-column-reinforcement-calculator.git
 ```
 
 Navigate to the project directory:
